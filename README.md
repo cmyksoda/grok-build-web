@@ -32,4 +32,4 @@ docker compose up -d --build
 ## Credits
 
 Built as a community-friendly web frontend for Grok Build.
-For questions or issues, open an issue on GitHub or email jaxi@cmyksoda.cc.
+For questions, email me at jaxi@cmyksoda.cc.
