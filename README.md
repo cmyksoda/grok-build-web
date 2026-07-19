@@ -27,9 +27,3 @@ docker compose up -d --build
 ```
 
 4. The site will be available on port 5585 (e.g. http://localhost:5585 or your server’s IP).
-
-
-## Credits
-
-Built as a community-friendly web frontend for Grok Build.
-For questions, email me at jaxi@cmyksoda.cc.
